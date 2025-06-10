@@ -29,7 +29,5 @@ print(tottal)
 product = reduce(lambda n1,n2:n1*n2,num_lst)
 print(product)
 
-product = reduce(lambda n1,n2:n1*n2,num_lst)
-print(product)
 
 
